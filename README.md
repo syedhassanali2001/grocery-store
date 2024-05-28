@@ -1,3 +1,7 @@
+For Backend i use strapi for back-end 
+
+you can sign up and sign and add products from card and pay order amount by paypal or you can use test button as well for payment
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
